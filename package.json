@@ -1,0 +1,6 @@
+{
+    "homepage": "https://leeesburgpresbyterian.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
